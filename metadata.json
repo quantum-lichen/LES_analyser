@@ -1,0 +1,5 @@
+{
+  "name": "LES Analyzer",
+  "description": "An interactive dashboard visualizing the Low-Entropy Spiral (LES) theory through empirical chat analysis.",
+  "requestFramePermissions": []
+}
